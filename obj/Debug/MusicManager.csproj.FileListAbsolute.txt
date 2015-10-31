@@ -1,1 +1,13 @@
 D:\Study\C#\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
+D:\Study\C#\MusicManager\MusicManager\bin\Debug\MusicManager.exe
+D:\Study\C#\MusicManager\MusicManager\bin\Debug\MusicManager.pdb
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MainWindow.baml
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MainWindow.g.cs
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\App.g.cs
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager_MarkupCompile.cache
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.g.resources
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resources.resources
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.exe
+D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
