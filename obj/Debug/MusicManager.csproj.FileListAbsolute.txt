@@ -1,0 +1,1 @@
+D:\Study\C#\MusicManager\MusicManager\bin\Debug\MusicManager.exe.config
