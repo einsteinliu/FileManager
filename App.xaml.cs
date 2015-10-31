@@ -15,5 +15,6 @@ namespace MusicManager
     {
         Point a = new Point(1,2);
         //This is my design
+        //haha
     }
 }
