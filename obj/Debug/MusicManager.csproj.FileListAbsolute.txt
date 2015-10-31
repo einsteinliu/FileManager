@@ -11,3 +11,16 @@ D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.Properties.Resource
 D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
 D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.exe
 D:\Study\C#\MusicManager\MusicManager\obj\Debug\MusicManager.pdb
+D:\Study\C#\FileManager\bin\Debug\MusicManager.exe.config
+D:\Study\C#\FileManager\obj\Debug\MusicManager.exe
+D:\Study\C#\FileManager\obj\Debug\MusicManager.pdb
+D:\Study\C#\FileManager\bin\Debug\MusicManager.exe
+D:\Study\C#\FileManager\bin\Debug\MusicManager.pdb
+D:\Study\C#\FileManager\obj\Debug\MusicManager.csprojResolveAssemblyReference.cache
+D:\Study\C#\FileManager\obj\Debug\MainWindow.baml
+D:\Study\C#\FileManager\obj\Debug\MainWindow.g.cs
+D:\Study\C#\FileManager\obj\Debug\App.g.cs
+D:\Study\C#\FileManager\obj\Debug\MusicManager_MarkupCompile.cache
+D:\Study\C#\FileManager\obj\Debug\MusicManager.g.resources
+D:\Study\C#\FileManager\obj\Debug\MusicManager.Properties.Resources.resources
+D:\Study\C#\FileManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache

@@ -14,5 +14,6 @@ namespace MusicManager
     public partial class App : Application
     {
         Point a = new Point(1,2);
+        //This is my design
     }
 }
