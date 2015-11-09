@@ -24,3 +24,8 @@ D:\Study\C#\FileManager\obj\Debug\MusicManager_MarkupCompile.cache
 D:\Study\C#\FileManager\obj\Debug\MusicManager.g.resources
 D:\Study\C#\FileManager\obj\Debug\MusicManager.Properties.Resources.resources
 D:\Study\C#\FileManager\obj\Debug\MusicManager.csproj.GenerateResource.Cache
+D:\Study\C#\FileManager\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Study\C#\FileManager\bin\Debug\taglib-sharp.dll
+D:\Study\C#\FileManager\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Study\C#\FileManager\bin\Debug\Newtonsoft.Json.dll
+D:\Study\C#\FileManager\bin\Debug\Newtonsoft.Json.xml
